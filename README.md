@@ -1,4 +1,6 @@
 # Group 203_7 for CSCI 3308 in Fall 2020 at CU Boulder
+# envi: Environmental Tracking App
+Deployed at https://envi-app.herokuapp.com/ 
 ## Project Team Members:
 
 - Matthew Teta
