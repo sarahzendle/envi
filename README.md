@@ -9,18 +9,12 @@
 - Lakshya Jaishankar
 - Sarah Zendle
 
+NOTE: Project was completed on a private repository through the University of Colorado Boulder. Source code was uploaded directly from Sarah Zendle's machine, and does not show actual commit history. Sarah Zendle contributed most of the css and front end for the home, friends, signup, and tracking pages.
+
 ## Application Name: envi
 
 ## Application Description:
-Track things you do to help the environment
-Reusable water bottles/cups
-Reusable Straws
-Donate clothes
-Reusable shopping bag
-Biking/walking rather than driving
-Allows users to share their positive impacts with friends
-Earn rewards to create a “biome” - you can build it up as you do more
-Corporate carbon footprint tracker?
+Envi is an environmental impact tracking application. Create an account, log environmentally friendly actions, and connect with friends. Earn milestones and personalize your profile.
 
 ## Vision Statement:
 For environmentally conscious people who would like to track and share the positive impacts they’re making, envi is a social platform where users can build a communal sense of environmental accountability that unites us during these troubling times.
@@ -48,9 +42,3 @@ Meeting Plan: Tuesday at 7:15pm and Wednesday at 6:45pm(Zoom)
   - HTML
   - Bootstrap CSS and custom CSS
   - JS
-  - React
-    - create-react-app boilerplate
-
-
-# envi
-# envi
